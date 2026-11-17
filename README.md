@@ -30,7 +30,8 @@ END
 ```
 
 ## OUTPUT
-<img width="1422" height="720" alt="Screenshot 2026-10-24 141223" src="https://github.com/user-attachments/assets/571edf39-46b1-4d1b-9da7-5c0b1c983a7a" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-24 140337" src="https://github.com/user-attachments/assets/a2bc4efc-7d43-497d-b2da-6b0a8719cc4c" />
+
 
 
 ## RESULT
@@ -84,7 +85,8 @@ END
 
 
 ## OUTPUT
-<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/28c1c477-669a-4d80-9ef3-7c1187885808" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 105006" src="https://github.com/user-attachments/assets/e9581ba3-74f2-4186-bfe4-3e1f577a6386" />
+
 
 
 ## RESULT
